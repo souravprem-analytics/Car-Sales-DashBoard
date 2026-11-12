@@ -1,4 +1,4 @@
-# 🚗 Car Sales & Commission Analytics Dashboard (Tableau)
+# 🚗 Car Sales Dashboard (Tableau)
 
 ## 📌 Project Overview
 An interactive **Tableau Business Intelligence dashboard** analyzing automotive sales performance, monthly revenue trends, salesperson productivity, brand market share, and commission metrics across vehicle models.
